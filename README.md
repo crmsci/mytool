@@ -13,18 +13,15 @@
 * jvm
 * 通用框架
 
-
 ## 数据库系列
 
 * mysql
 * 语句
 
-
 ## javaScricp系列
 
 * jQuery
 * 通用工具
-* 
 
 ## git系列
 * 常用指令
