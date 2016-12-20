@@ -18,9 +18,7 @@
 * mysql
 * 语句
 
-
 ## javaScricp系列
-
 
 * jQuery
 * 通用工具
